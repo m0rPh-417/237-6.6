@@ -21,3 +21,4 @@ echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.defau
 git clone https://github.com/rufengsuixing/luci-app-adguardhome package/luci-app-adguardhome
 chmod -R 755 ./package/luci-app-adguardhome/*
 git clone https://github.com/gdy666/luci-app-lucky.git package/lucky
+git clone https://github.com/sbwml/luci-app-openlist2 package/openlist
